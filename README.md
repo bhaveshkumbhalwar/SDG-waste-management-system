@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Vision
+## ✨ Vision:
 
 **SustainX is not just a project — it's a movement.**
 
