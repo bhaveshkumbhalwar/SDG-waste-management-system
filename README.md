@@ -1,4 +1,4 @@
-# 🌍 SustainX – Building a Cleaner, Healthier Future
+# 🌍 SustainX – Building a Cleaner, Healthier Future .
 
 > Transforming waste into opportunity, cleanliness into habit, and health into priority.
 
